@@ -1,0 +1,34 @@
+# FastAPI & Web
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+websockets==13.1
+python-multipart==0.0.12
+
+# AWS
+boto3==1.35.36
+botocore==1.35.36
+
+# AWS Experimental SDK for Nova Sonic
+aws-sdk-bedrock-runtime==0.1.0
+smithy-aws-core==0.1.0
+
+# Redis (without hiredis - pure Python)
+redis==5.2.0
+
+# HTTP & Auth
+httpx==0.27.2
+requests==2.32.3
+
+# Environment & Config
+python-dotenv==1.0.1
+pydantic==2.9.2
+pydantic-settings==2.6.0
+
+# Utilities
+python-jose[cryptography]==3.3.0
+
+# Logging & Monitoring
+structlog==24.4.0
+
+# Audio Processing
+numpy==2.1.3
