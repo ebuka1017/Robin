@@ -2,7 +2,7 @@
 # Robin: Your Voice-First Workspace Agent
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/image.jpg" alt="Robin Architecture Diagram" width="750"/>
+  <img src="https://raw.githubusercontent.com/ebuka1017/Robin/public/download.png" alt="Robin Architecture Diagram" width="750"/>
 </p>
 
 Robin is a voice-first assistant that helps you manage your digital workspace using natural language. With support for tools like Gmail, Google Calendar, and Slack, Robin enables productivity through simple voice commands—no typing required.
